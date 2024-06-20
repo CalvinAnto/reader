@@ -1,0 +1,9 @@
+.hoverable:hover {
+    background-color: orange;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
